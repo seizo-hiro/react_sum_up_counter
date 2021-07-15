@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import Btn from './Btn'
 
 const App = () => {
     const [count,setCount] = useState(1)
